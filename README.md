@@ -1,5 +1,5 @@
 # Ai-Contact-Center 智能联络中心
-智能联络中心，大模型智能呼叫中心系统，FreeSWITCH，大模型，呼叫中心，大模型呼入机器人，大模型呼出机器人，大模型呼叫中心，智能外呼，大模型机器人，智能电话外呼，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统，AI Call Center，LLM,Call,IPCC,Voice,AI,Call Center,TTS,ASR,NLP，联络中心，客服中心!!!
+智能联络中心，大模型智能呼叫中心系统，FreeSWITCH，大模型，呼叫中心，大模型呼入机器人，大模型呼出机器人，大模型呼叫中心，智能外呼，大模型机器人，智能电话外呼，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统，AI Call Center，LLM,Call,IPCC,Voice,AI,Call Center,TTS,ASR,NLP，联络中心，客服中心!!!!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
